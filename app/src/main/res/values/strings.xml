@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TMBlueMoon</string>
+
+<!--매뉴 문구-->
+    <string name="tm_menu_user">사용자</string>
+    <string name="tm_menu_info">정보</string>
+    <string name="tm_menu_search">검색</string>
+
+    
+</resources>
